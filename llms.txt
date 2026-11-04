@@ -1,0 +1,58 @@
+# NurVakti
+
+> Prayer times, sourced Quran and translations, qibla, nearby mosques, Ramadan and khatm plans for iPhone and Android. No account needed, in 23 languages.
+
+NurVakti is a prayer and Quran app for iPhone and Android. It calculates prayer times on your device, presents the Quran with its sources, and shows the qibla and nearby mosques. No account is needed.
+
+## Features
+
+- Prayer times and reminders: Times calculated on your device for your location, a countdown to the next prayer, and prayer notifications.
+- Quran and translations: Arabic text of all 114 surahs, sourced translations, audio recitation, search, and resume where you left off.
+- Qibla and mosques: Qibla compass, nearby mosques, and directions through your maps app.
+- Khatm, memorization and dhikr: Personal reading plans and a dhikr counter; your records stay on your device.
+- Ramadan and religious days: Imsak timetable, suhoor reminders, Ramadan countdown, and a sourced calendar of religious days.
+- Widgets and 23 languages: Home screen widgets and support for 23 languages, including right-to-left scripts.
+
+## FAQ
+
+- Is NurVakti free? Yes. Prayer times, the Quran and translations are free, and the free version shows ads. Optional Pro removes ads and adds a live countdown and exclusive widget styles.
+- Do I need an account? No. Reading plans, dhikr and worship records stay on your device by default.
+- Does it work offline? Prayer times are calculated on your device, and the Quran text and translations can be read offline. Nearby mosques and audio that isn’t downloaded need internet.
+- Are the prayer times official? No. Times are calculated from your location and chosen calculation method; they are not official institutional data. Compare them with your local official calendar.
+- Which devices and languages are supported? iPhone and Android, in 23 languages including English, Turkish, Arabic, Persian, Urdu, Indonesian, French and Russian.
+- Where does the Quran text come from? The Arabic text comes from Tanzil and the translations from QuranEnc. Sources are shown in the app and the texts are not altered.
+
+## Links
+
+- [Website](https://mehmetvi.github.io/nurvakti-site/en/)
+- [App Store](https://apps.apple.com/app/id6821684985)
+- [Google Play](https://play.google.com/store/apps/details?id=com.mehmetvi.nurvakti)
+- [Support](https://mehmetvi.github.io/nurvakti-site/support.html)
+- [Privacy](https://mehmetvi.github.io/nurvakti-site/privacy.html)
+- [Terms](https://mehmetvi.github.io/nurvakti-site/terms.html)
+
+## Languages
+
+- [Türkçe](https://mehmetvi.github.io/nurvakti-site/)
+- [English](https://mehmetvi.github.io/nurvakti-site/en/)
+- [العربية](https://mehmetvi.github.io/nurvakti-site/ar/)
+- [فارسی](https://mehmetvi.github.io/nurvakti-site/fa/)
+- [اردو](https://mehmetvi.github.io/nurvakti-site/ur/)
+- [پښتو](https://mehmetvi.github.io/nurvakti-site/ps/)
+- [Bahasa Indonesia](https://mehmetvi.github.io/nurvakti-site/id/)
+- [Bahasa Melayu](https://mehmetvi.github.io/nurvakti-site/ms/)
+- [বাংলা](https://mehmetvi.github.io/nurvakti-site/bn/)
+- [Français](https://mehmetvi.github.io/nurvakti-site/fr/)
+- [Hausa](https://mehmetvi.github.io/nurvakti-site/ha/)
+- [Kiswahili](https://mehmetvi.github.io/nurvakti-site/sw/)
+- [Soomaali](https://mehmetvi.github.io/nurvakti-site/so/)
+- [Azərbaycanca](https://mehmetvi.github.io/nurvakti-site/az/)
+- [O‘zbekcha](https://mehmetvi.github.io/nurvakti-site/uz/)
+- [Қазақша](https://mehmetvi.github.io/nurvakti-site/kk/)
+- [Кыргызча](https://mehmetvi.github.io/nurvakti-site/ky/)
+- [Тоҷикӣ](https://mehmetvi.github.io/nurvakti-site/tg/)
+- [Türkmençe](https://mehmetvi.github.io/nurvakti-site/tk/)
+- [Русский](https://mehmetvi.github.io/nurvakti-site/ru/)
+- [Shqip](https://mehmetvi.github.io/nurvakti-site/sq/)
+- [Bosanski](https://mehmetvi.github.io/nurvakti-site/bs/)
+- [Kurdî (Kurmancî)](https://mehmetvi.github.io/nurvakti-site/ku/)
