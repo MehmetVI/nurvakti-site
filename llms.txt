@@ -27,9 +27,9 @@ NurVakti is a prayer and Quran app for iPhone and Android. It calculates prayer 
 - [Website](https://mehmetvi.github.io/nurvakti-site/en/)
 - [App Store](https://apps.apple.com/app/id6821684985)
 - [Google Play](https://play.google.com/store/apps/details?id=com.mehmetvi.nurvakti)
-- [Support](https://mehmetvi.github.io/nurvakti-site/support.html)
-- [Privacy](https://mehmetvi.github.io/nurvakti-site/privacy.html)
-- [Terms](https://mehmetvi.github.io/nurvakti-site/terms.html)
+- [Support](https://mehmetvi.github.io/nurvakti-site/en/support.html)
+- [Privacy](https://mehmetvi.github.io/nurvakti-site/en/privacy.html)
+- [Terms](https://mehmetvi.github.io/nurvakti-site/en/terms.html)
 
 ## Languages
 
