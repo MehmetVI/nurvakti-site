@@ -15,7 +15,7 @@ NurVakti is a prayer and Quran app for iPhone and Android. It calculates prayer 
 
 ## FAQ
 
-- Is NurVakti free? Yes. Prayer times, the Quran and translations are free, and the free version shows ads. Optional Pro removes ads and adds a live countdown and exclusive widget styles.
+- Is NurVakti free? Yes. Prayer times, the Quran and translations are free, and the free version shows ads. Optional Pro removes ads and adds adhan sounds and exclusive widget styles.
 - Do I need an account? No. Reading plans, dhikr and worship records stay on your device by default.
 - Does it work offline? Prayer times are calculated on your device, and the Quran text and translations can be read offline. Nearby mosques and audio that isn’t downloaded need internet.
 - Are the prayer times official? No. Times are calculated from your location and chosen calculation method; they are not official institutional data. Compare them with your local official calendar.
