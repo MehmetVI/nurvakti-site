@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://mehmetvi.github.io/nurvakti-site/sitemap.xml
